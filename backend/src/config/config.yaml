@@ -1,0 +1,5 @@
+db:
+  host: localhost
+  name: chat_rp_db
+  user: chatrp
+  pass: password
